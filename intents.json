@@ -1,0 +1,25 @@
+{"intents":
+[
+
+    {"tag":"crea_nota",
+        "patterns":["Per favore crea una nuova nota","Nuova nota","Creami una nota"],
+        "responses":[""]},
+    {"tag":"CMD",
+        "patterns":["apri cmd","Voglio aprire il cmd"],
+        "responses":[""]},
+    {"tag":"tempo",
+        "patterns":["Che ore sono","Dimmi che ora è"],
+        "responses":[""]},
+    {"tag":"saluto",
+        "patterns":["Come stai","Come va oggi","Stai bene"],
+        "responses":[""]},
+    {"tag":"chi_sei",
+        "patterns":["chi sei"],
+        "responses":[""]},
+    {"tag":"leggi_pdf",
+        "patterns":["voglio leggere un pdf","leggi pdf"],
+        "responses":[""]}, 
+    {"tag":"exit",
+        "patterns":["Mene vado","voglio andare","ci vediamo la prossima volta"],
+        "responses":[""]}         
+]}
