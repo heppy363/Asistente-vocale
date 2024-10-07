@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.16">
   <diagram name="Pagina-1" id="1UcLQV_8pzfKl2Z71nZU">
-    <mxGraphModel>
+    <mxGraphModel dx="874" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KmxpHJegTqYbhHFbXzw4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KmxpHJegTqYbhHFbXzw4-1" target="KmxpHJegTqYbhHFbXzw4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KmxpHJegTqYbhHFbXzw4-1" value="&lt;div&gt;Main page del app&lt;/div&gt;&lt;div&gt;- Resolum&lt;/div&gt;&lt;div&gt;- Shelly&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KmxpHJegTqYbhHFbXzw4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KmxpHJegTqYbhHFbXzw4-2" target="KmxpHJegTqYbhHFbXzw4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KmxpHJegTqYbhHFbXzw4-2" value="&lt;div&gt;&lt;b&gt;Scelta della sala&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Si va alla pagina di selezione di una sala perla gestione con le shlly qui si puo fre:&lt;/div&gt;&lt;div&gt;- entrare in una sala&lt;/div&gt;&lt;div&gt;- Creare una sala&lt;/div&gt;&lt;div&gt;- modificare le schelly preenti nella sala&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KmxpHJegTqYbhHFbXzw4-6" value="&lt;div&gt;&lt;b&gt;Gestione della sala&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;qui l&#39;utente puo modificare quelle che sono le shelly della sala:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- viene visulizzata una lista di prese scansionando la rete, si mostra l&#39;IP&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- si puo rinomianre la prese &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;- Identificarsi alle shelly con nome e password(bottone)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="210" height="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
